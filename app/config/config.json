@@ -1,7 +1,7 @@
 {
-  "db": "rethinkdb",
+  "db": "bookshelf",
   "bookshelf": {
-    "db": "sqlite",
+    "db": "mysql",
     "init": "data/bookshelf/init",
     "passport" : "data/bookshelf/passport",
     "migrations": {
